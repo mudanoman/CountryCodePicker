@@ -2,6 +2,8 @@
 
 # country_code_picker
 
+*UPDATED with ENGLISH COUNTRY NAMES*
+
 A flutter package for showing a country code selector.
 
 <img src="https://raw.githubusercontent.com/Salvatore-Giordano/CountryCodePicker/master/screenshots/screen1.png" width="240"/>
