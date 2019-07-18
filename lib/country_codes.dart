@@ -14,7 +14,7 @@ List<Map> codes = [
   {"name": "Anguilla", "flag": "🇦🇮", "code": "AI", "dial_code": "+1264"},
   {"name": "Antarctica", "flag": "🇦🇶", "code": "AQ", "dial_code": "+672"},
   {
-    "name": "Antigua and Barbuda",
+    "name": "Antigua & Barbuda",
     "flag": "🇦🇬",
     "code": "AG",
     "dial_code": "+1268"
@@ -42,7 +42,7 @@ List<Map> codes = [
     "dial_code": "+591"
   },
   {
-    "name": "Bosnia and Herzegovina",
+    "name": "Bosnia",
     "flag": "🇧🇦",
     "code": "BA",
     "dial_code": "+387"
@@ -174,16 +174,10 @@ List<Map> codes = [
   {"name": "Guyana", "flag": "🇬🇾", "code": "GY", "dial_code": "+592"},
   {"name": "Haiti", "flag": "🇭🇹", "code": "HT", "dial_code": "+509"},
   {
-    "name": "Heard Island and Mcdonald Islands",
+    "name": "Heard Island & Mcdonald Islands",
     "flag": "🇭🇲",
     "code": "HM",
     "dial_code": "+0"
-  },
-  {
-    "name": "Holy See (Vatican City)",
-    "flag": "🇻🇦",
-    "code": "VA",
-    "dial_code": "+379"
   },
   {"name": "Honduras", "flag": "🇭🇳", "code": "HN", "dial_code": "+504"},
   {"name": "Hong Kong", "flag": "🇭🇰", "code": "HK", "dial_code": "+852"},
@@ -325,13 +319,13 @@ List<Map> codes = [
     "dial_code": "+590"
   },
   {
-    "name": "Saint Helena, Ascension and Tristan Da Cunha",
+    "name": "Saint Helena, Ascension & Tristan Da Cunha",
     "flag": "🇸🇭",
     "code": "SH",
     "dial_code": "+290"
   },
   {
-    "name": "Saint Kitts and Nevis",
+    "name": "Saint Kitts & Nevis",
     "flag": "🇰🇳",
     "code": "KN",
     "dial_code": "+1869"
@@ -339,13 +333,13 @@ List<Map> codes = [
   {"name": "Saint Lucia", "flag": "🇱🇨", "code": "LC", "dial_code": "+1758"},
   {"name": "Saint Martin", "flag": "🇲🇫", "code": "MF", "dial_code": "+590"},
   {
-    "name": "Saint Pierre and Miquelon",
+    "name": "Saint Pierre & Miquelon",
     "flag": "🇵🇲",
     "code": "PM",
     "dial_code": "+508"
   },
   {
-    "name": "Saint Vincent and the Grenadines",
+    "name": "Saint Vincent & the Grenadines",
     "flag": "🇻🇨",
     "code": "VC",
     "dial_code": "+1784"
@@ -353,7 +347,7 @@ List<Map> codes = [
   {"name": "Samoa", "flag": "🇼🇸", "code": "WS", "dial_code": "+685"},
   {"name": "San Marino", "flag": "🇸🇲", "code": "SM", "dial_code": "+378"},
   {
-    "name": "Sao Tome and Principe",
+    "name": "Sao Tome & Principe",
     "flag": "🇸🇹",
     "code": "ST",
     "dial_code": "+239"
@@ -376,7 +370,7 @@ List<Map> codes = [
   {"name": "South Africa", "flag": "🇿🇦", "code": "ZA", "dial_code": "+27"},
   {"name": "South Sudan", "flag": "🇸🇸", "code": "SS", "dial_code": "+211"},
   {
-    "name": "South Georgia and the South Sandwich Islands",
+    "name": "South Georgia & the South Sandwich Islands",
     "flag": "🇬🇸",
     "code": "GS",
     "dial_code": "+500"
@@ -386,7 +380,7 @@ List<Map> codes = [
   {"name": "Sudan", "flag": "🇸🇩", "code": "SD", "dial_code": "+249"},
   {"name": "Suriname", "flag": "🇸🇷", "code": "SR", "dial_code": "+597"},
   {
-    "name": "Svalbard and Jan Mayen",
+    "name": "Svalbard & Jan Mayen",
     "flag": "🇸🇯",
     "code": "SJ",
     "dial_code": "+47"
@@ -414,7 +408,7 @@ List<Map> codes = [
   {"name": "Tokelau", "flag": "🇹🇰", "code": "TK", "dial_code": "+690"},
   {"name": "Tonga", "flag": "🇹🇴", "code": "TO", "dial_code": "+676"},
   {
-    "name": "Trinidad and Tobago",
+    "name": "Trinidad & Tobago",
     "flag": "🇹🇹",
     "code": "TT",
     "dial_code": "+1868"
@@ -423,7 +417,7 @@ List<Map> codes = [
   {"name": "Turkey", "flag": "🇹🇷", "code": "TR", "dial_code": "+90"},
   {"name": "Turkmenistan", "flag": "🇹🇲", "code": "TM", "dial_code": "+993"},
   {
-    "name": "Turks and Caicos Islands",
+    "name": "Turks & Caicos Islands",
     "flag": "🇹🇨",
     "code": "TC",
     "dial_code": "+1649"
@@ -442,6 +436,12 @@ List<Map> codes = [
   {"name": "Uruguay", "flag": "🇺🇾", "code": "UY", "dial_code": "+598"},
   {"name": "Uzbekistan", "flag": "🇺🇿", "code": "UZ", "dial_code": "+998"},
   {"name": "Vanuatu", "flag": "🇻🇺", "code": "VU", "dial_code": "+678"},
+  {
+    "name": "Vatican City",
+    "flag": "🇻🇦",
+    "code": "VA",
+    "dial_code": "+379"
+  },
   {
     "name": "Venezuela",
     "flag": "🇻🇪",
@@ -462,7 +462,7 @@ List<Map> codes = [
     "dial_code": "+1340"
   },
   {
-    "name": "Wallis and Futuna",
+    "name": "Wallis & Futuna",
     "flag": "🇼🇫",
     "code": "WF",
     "dial_code": "+681"
